@@ -1,5 +1,7 @@
 <h1>Simple Counter App</h1>
 
+Please visit :- https://animated-speculoos-41bdfd.netlify.app/
+
 A simple, responsive counter application built with HTML, CSS, and JavaScript. The counter allows users to increment and decrement a numeric value. This project is perfect for beginners to learn and understand the basics of web development.
 
 <h2>Features</h2>
